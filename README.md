@@ -1,7 +1,7 @@
 # Projet 9: Identifier des marqueurs langagiers de démence
 
 ## Jeu de données
-Pour le jeu de données, vous pouvez trouver dans le dépôt ou dans le lien suivant
+Pour le jeu de données, vous pouvez trouver dans le lien Drive suivant:
 Lien de Drive: https://drive.google.com/drive/folders/1vn_RM47LA_HdpQwZqdwqNRPm7CXyeeV3?usp=sharing
 
 ## Comment ça marche
