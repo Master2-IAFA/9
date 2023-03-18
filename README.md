@@ -1,8 +1,8 @@
 # Projet 9: Identifier des marqueurs langagiers de démence
 
 ## Jeu de données
-Pour le jeu de données, vous pouvez trouver dans le lien Drive suivant.
-Lien de Drive: https://drive.google.com/drive/folders/1vn_RM47LA_HdpQwZqdwqNRPm7CXyeeV3?usp=sharing
+Pour le jeu de données, vous pouvez trouver dans le lien Drive suivant:
+https://drive.google.com/drive/folders/1vn_RM47LA_HdpQwZqdwqNRPm7CXyeeV3?usp=sharing
 
 ## Comment ça marche
 Vous pouvez exécuter les codes à local ou avec le google colab en dessous.
